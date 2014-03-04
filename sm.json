@@ -147,7 +147,37 @@
 							"media":{"url":"http://upload.wikimedia.org/wikipedia/commons/3/3f/Salerno-_Panorama_da_castello_di_Arechi_II.jpeg",
 							"credit":"Wikimedia Commons","caption":""},
 							"location":{"lat":40.6824408,"lon":14.7680961,"zoom":10,"line":true,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"}
-						}						
+						},
+					{
+						"date":"",
+						"text":{
+							"headline":"Tolentino",
+							"text":"<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pharetra faucibus pulvinar. Ut malesuada vestibulum purus sit amet laoreet.</span><br><br><strong>Storia</strong>: <a href='http://www.democraziadigitale.eu/open-data-day-2014-le-marche-nel-segno-di-unicam/'>http://www.democraziadigitale.eu/open-data-day-2014-le-marche-nel-segno-di-unicam/</a><br><strong>URL</strong>: <a href='http://wiki.opendataday.org/Tolentino2014'>http://wiki.opendataday.org/Tolentino2014</a><br>"
+							},
+							"media":{"url":"http://upload.wikimedia.org/wikipedia/commons/c/cb/Panorama_Tolentino_-.jpg",
+							"credit":"Wikimedia Commons","caption":""},
+							"location":{"lat":43.2093035,"lon":13.2806373,"zoom":10,"line":true,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"}
+						},
+					{
+						"date":"",
+						"text":{
+							"headline":"Torino",
+							"text":"<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pharetra faucibus pulvinar. Ut malesuada vestibulum purus sit amet laoreet.</span><br><br><strong>contributor</strong>: @digito.it<br><strong>Storia</strong>: <a href='http://www.digi.to.it/?p=17850'>http://www.digi.to.it/?p=17850</a><br><strong>URL</strong>: <a href='http://wiki.opendataday.org/Torino2014-IODDIT'>http://wiki.opendataday.org/Torino2014-IODDIT</a><br>"
+							},
+							"media":{"url":"http://upload.wikimedia.org/wikipedia/commons/3/3a/Torino-panoramadaicappuccini.jpg",
+							"credit":"Wikimedia Commons","caption":""},
+							"location":{"lat":45.070982,"lon":7.685676,"zoom":10,"line":true,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"}
+						},
+					{
+						"date":"",
+						"text":{
+							"headline":"Trento",
+							"text":"<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pharetra faucibus pulvinar. Ut malesuada vestibulum purus sit amet laoreet.</span><br><br><strong>contributor</strong>: @digito.it<br><strong>Storia</strong>: <a href='http://rsc.taslab.eu/home/-/blogs/international-open-data-day-per-la-prima-volta-a-trento'>http://rsc.taslab.eu/home/-/blogs/international-open-data-day-per-la-prima-volta-a-trento</a><br><strong>URL</strong>: <a href='http://wiki.opendataday.org/Trento2014'>http://wiki.opendataday.org/Trento2014</a><br>"
+							},
+							"media":{"url":"http://upload.wikimedia.org/wikipedia/commons/6/69/Panorama_di_trento.jpg",
+							"credit":"Wikimedia Commons","caption":""},
+							"location":{"lat":46.0696924,"lon":11.1210886,"zoom":10,"line":true,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"}
+						}									
 			]
 		}
 	}
