@@ -62,12 +62,22 @@
 						"date":"",
 						"text":{
 							"headline":"Lecce",
-							"text":"<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pharetra faucibus pulvinar. Ut malesuada vestibulum purus sit amet laoreet.</span><br><br><strong>contributor</strong>: @iberti<br><strong>Storia</strong>: <a href='http://storify.com/giuliaan/oddit14-opendatalecce-chedativuoi'>http://storify.com/giuliaan/oddit14-opendatalecce-chedativuoi</a><br><strong>URL</strong>: <a href='http://wiki.opendataday.org/Lecce2014</a><br>"
+							"text":"<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pharetra faucibus pulvinar. Ut malesuada vestibulum purus sit amet laoreet.</span><br><br><strong>contributor</strong>: @iberti<br><strong>Storia</strong>: <a href='http://storify.com/giuliaan/oddit14-opendatalecce-chedativuoi'>http://storify.com/giuliaan/oddit14-opendatalecce-chedativuoi</a><br><strong>URL</strong>: <a href='http://wiki.opendataday.org/Lecce2014'>http://wiki.opendataday.org/Lecce2014</a><br>"
 							},
 							"media":{"url":"http://upload.wikimedia.org/wikipedia/commons/b/b9/Lecce_from_the_air.jpg",
 							"credit":"Wikimedia Commons","caption":""},
 							"location":{"lat":40.3515155,"lon":18.1750161,"zoom":10,"line":true,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"}
-						}	
+						}
+					{
+						"date":"",
+						"text":{
+							"headline":"Matera",
+							"text":"<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pharetra faucibus pulvinar. Ut malesuada vestibulum purus sit amet laoreet.</span><br><br><strong>contributor</strong>: @piersoft<br><strong>Storia</strong>: <a href='http://www.piersoft.it/?p=161'>http://storify.com/giuliaan/oddit14-opendatalecce-chedativuoi</a><br><strong>URL</strong>: <a href='http://wiki.opendataday.org/Matera2014'>http://wiki.opendataday.org/Matera2014</a><br>"
+							},
+							"media":{"url":"http://upload.wikimedia.org/wikipedia/commons/b/b9/Lecce_from_the_air.jpg",
+							"credit":"Wikimedia Commons","caption":""},
+							"location":{"lat":40.3515155,"lon":18.1750161,"zoom":10,"line":true,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"}
+						}		
 			]
 		}
 	}
