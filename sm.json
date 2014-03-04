@@ -72,7 +72,7 @@
 						"date":"",
 						"text":{
 							"headline":"Matera",
-							"text":"<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pharetra faucibus pulvinar. Ut malesuada vestibulum purus sit amet laoreet.</span><br><br><strong>contributor</strong>: @piersoft<br><strong>Storia</strong>: <a href='http://www.piersoft.it/?p=161'>http://storify.com/giuliaan/oddit14-opendatalecce-chedativuoi</a><br><strong>URL</strong>: <a href='http://wiki.opendataday.org/Matera2014'>http://wiki.opendataday.org/Matera2014</a><br>"
+							"text":"<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pharetra faucibus pulvinar. Ut malesuada vestibulum purus sit amet laoreet.</span><br><br><strong>contributor</strong>: @piersoft<br><strong>Storia</strong>: <a href='http://www.piersoft.it/?p=161'>http://www.piersoft.it/?p=161</a><br><strong>URL</strong>: <a href='http://wiki.opendataday.org/Matera2014'>http://wiki.opendataday.org/Matera2014</a><br>"
 							},
 							"media":{"url":"http://upload.wikimedia.org/wikipedia/commons/3/30/Matera_Sassi.jpg",
 							"credit":"Wikimedia Commons","caption":""},
@@ -86,8 +86,18 @@
 							},
 							"media":{"url":"http://upload.wikimedia.org/wikipedia/commons/5/5b/Braun_Napoli_UBHD.jpg",
 							"credit":"Wikimedia Commons","caption":""},
-							"location":{"lat":40.3515155,"lon":18.1750161,"zoom":10,"line":true,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"}
-						}
+							"location":{"lat":40.8517746,"lon":14.2681244,"zoom":10,"line":true,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"}
+						},
+										{
+						"date":"",
+						"text":{
+							"headline":"Palermo",
+							"text":"<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pharetra faucibus pulvinar. Ut malesuada vestibulum purus sit amet laoreet.</span><br><br><strong>contributor</strong>: @aborruso<br><strong>Storia</strong>: <a href='https://medium.com/open-data-stories/b1aaf13f6622'>https://medium.com/open-data-stories/b1aaf13f6622</a><br><strong>URL</strong>: <a href='http://wiki.opendataday.org/Matera2014'>http://wiki.opendataday.org/Matera2014</a><br>"
+							},
+							"media":{"url":"http://upload.wikimedia.org/wikipedia/commons/2/2b/Palermo-San-Cataldo-bjs-1.jpg",
+							"credit":"Wikimedia Commons","caption":""},
+							"location":{"lat":38.1156879,"lon":13.3612671,"zoom":10,"line":true,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"}
+						}	
 			]
 		}
 	}
