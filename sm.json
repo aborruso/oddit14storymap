@@ -14,7 +14,7 @@
 					"headline":"Albano Laziale",
 					"text":"<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pharetra faucibus pulvinar. Ut malesuada vestibulum purus sit amet laoreet.</span><br><br><strong>URL</strong>:<a href='http://wiki.opendataday.org/AlbanoLaziale2014'> http://wiki.opendataday.org/AlbanoLaziale2014</a><br>"
 					},
-					"media":{"url":"http://farm2.staticflickr.com/1090/747618554_5fb10c5125_o.jpg",
+					"media":{"url":"http://upload.wikimedia.org/wikipedia/commons/8/8a/Albano_Laziale_-_Le_antiche_terme_romane_di_Cellomaio.jpg",
 					"credit":"",
 					"caption":""},
 					"location":{"lat":41.7284572,"lon":12.6589426,"zoom":10,"line":true,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"}},
@@ -24,7 +24,7 @@
 							"headline":"Bari",
 							"text":"<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pharetra faucibus pulvinar. Ut malesuada vestibulum purus sit amet laoreet.</span><br><br><strong>contributor</strong>: @morena<br><strong>Storia</strong>: <a href='http://www.mysolutionpost.it/archivio/fisco-e-societ%C3%A0/2014/02/open-data-day-post-eventum.aspx'>http://www.mysolutionpost.it/archivio/fisco-e-societ%C3%A0/2014/02/open-data-day-post-eventum.aspx</a><br><strong>URL</strong>: <a href='http://wiki.opendataday.org/Bari2014'>http://wiki.opendataday.org/Bari2014</a><br>"
 							},
-							"media":{"url":"http://farm1.staticflickr.com/80/240641098_a9b324a9e1_b.jpg",
+							"media":{"url":"http://upload.wikimedia.org/wikipedia/commons/f/ff/Castello_di_Bari.jpg",
 							"credit":"","caption":""},
 							"location":{"lat":41.1171432,"lon":16.8718715,"zoom":10,"line":true,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"}},
 							{
@@ -33,7 +33,7 @@
 									"headline":"Bologna",
 									"text":"<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pharetra faucibus pulvinar. Ut malesuada vestibulum purus sit amet laoreet.</span><br><br><strong>contributor</strong>: @eccoilmoro<br><strong>Storia</strong>: <a href='http://opendatabassaromagna.blogspot.it/2014/02/il-variegato-mondo-degli-opendatari.html'>http://opendatabassaromagna.blogspot.it/2014/02/il-variegato-mondo-degli-opendatari.html</a><br><strong>URL</strong>: <a href='http://wiki.opendataday.org/Bologna2014'>http://wiki.opendataday.org/Bologna2014</a><br>"
 									},
-									"media":{"url":"http://farm1.staticflickr.com/80/240641098_a9b324a9e1_b.jpg",
+									"media":{"url":"http://upload.wikimedia.org/wikipedia/commons/b/bc/Bologna-SanPetronioPiazzaMaggiore1.jpg",
 									"credit":"","caption":""},
 									"location":{"lat":44.494887,"lon":11.3426163,"zoom":10,"line":true,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"}},
 							{
@@ -42,7 +42,7 @@
 									"headline":"Cagliari",
 									"text":"<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pharetra faucibus pulvinar. Ut malesuada vestibulum purus sit amet laoreet.</span><br><br><strong>contributor</strong>: @manuelavacca<br><strong>Storia</strong>: <a href='http://apritisardegna.wordpress.com/2014/03/03/cagliari-open-data-day-2014-seconda-edizione/'>http://apritisardegna.wordpress.com/2014/03/03/cagliari-open-data-day-2014-seconda-edizione/</a><br><strong>URL</strong>: <a href='http://wiki.opendataday.org/Cagliari2014'>http://wiki.opendataday.org/Cagliari2014</a><br>"
 									},
-									"media":{"url":"http://farm1.staticflickr.com/80/240641098_a9b324a9e1_b.jpg",
+									"media":{"url":"http://upload.wikimedia.org/wikipedia/commons/9/94/Braun_hogenberg_Cagliari_1572.jpg",
 									"credit":"","caption":""},
 									"location":{"lat":39.2238411,"lon":9.1216613,"zoom":10,"line":true,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"}}		
 									]
