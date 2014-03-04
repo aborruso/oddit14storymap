@@ -77,7 +77,17 @@
 							"media":{"url":"http://upload.wikimedia.org/wikipedia/commons/3/30/Matera_Sassi.jpg",
 							"credit":"Wikimedia Commons","caption":""},
 							"location":{"lat":40.3515155,"lon":18.1750161,"zoom":10,"line":true,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"}
-						}		
+						},
+					{
+						"date":"",
+						"text":{
+							"headline":"Napoli",
+							"text":"<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pharetra faucibus pulvinar. Ut malesuada vestibulum purus sit amet laoreet.</span><br><br><strong>URL</strong>: <a href='http://wiki.opendataday.org/Napoli2014'>http://wiki.opendataday.org/Napoli2014</a><br>"
+							},
+							"media":{"url":"http://upload.wikimedia.org/wikipedia/commons/5/5b/Braun_Napoli_UBHD.jpg",
+							"credit":"Wikimedia Commons","caption":""},
+							"location":{"lat":40.3515155,"lon":18.1750161,"zoom":10,"line":true,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"}
+						}
 			]
 		}
 	}
