@@ -1,0 +1,32 @@
+{"storymap":
+{
+	"slides":[
+	{
+		"date":"",
+		"text":{
+			"headline":"L'OpenDataDay della porta accanto",
+			"text":"<span>Una delle cose pi&ugrave; interessanti sugli Open Data &egrave; secondo me poterli raccontare, spiegare almeno un po' a cosa possono servire, cercare di capire a chi pu&ograve; interessare. Il 22 febbraio 2014, otto giorni fa rispetto a quando scrivo questo post, in una ventina di citt&agrave; italiane si &egrave; tenuto l'Open Data Day (<a href='http://opendataday.org/'>iniziativa internazionale</a> che si &egrave; diffusa anche in Italia).</span><br>"
+			},
+			"media":{"url":"http://www.spaghettiopendata.org/sites/default/files/oddmap.png","credit":"","caption":""},"type":"overview"},
+			{
+				"date":"",
+				"text":{
+					"headline":"Albano Laziale",
+					"text":"<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pharetra faucibus pulvinar. Ut malesuada vestibulum purus sit amet laoreet.</span><br><br><strong>URL</strong>:<a href='http://wiki.opendataday.org/AlbanoLaziale2014'> http://wiki.opendataday.org/AlbanoLaziale2014</a><br>"
+					},
+					"media":{"url":"http://farm2.staticflickr.com/1090/747618554_5fb10c5125_o.jpg",
+					"credit":"",
+					"caption":""},
+					"location":{"lat":41.7284572,"lon":12.6589426,"zoom":10,"line":true,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"}},
+					{
+						"date":"",
+						"text":{
+							"headline":"Bari",
+							"text":"<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pharetra faucibus pulvinar. Ut malesuada vestibulum purus sit amet laoreet.</span><br><br><strong>contributor</strong>: @morena<br><strong>Storia</strong>: <a href='http://www.mysolutionpost.it/archivio/fisco-e-societ%C3%A0/2014/02/open-data-day-post-eventum.aspx'>http://www.mysolutionpost.it/archivio/fisco-e-societ%C3%A0/2014/02/open-data-day-post-eventum.aspx</a><br><strong>URL</strong>: <a href='http://wiki.opendataday.org/Bari2014'>http://wiki.opendataday.org/Bari2014</a><br>"
+							},
+							"media":{"url":"http://farm1.staticflickr.com/80/240641098_a9b324a9e1_b.jpg",
+							"credit":"","caption":""},
+							"location":{"lat":41.1171432,"lon":16.8718715,"zoom":3,"line":true,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"}}
+							]
+						}
+					}
