@@ -26,25 +26,38 @@
 							},
 							"media":{"url":"http://upload.wikimedia.org/wikipedia/commons/f/ff/Castello_di_Bari.jpg",
 							"credit":"Wikimedia Commons","caption":""},
-							"location":{"lat":41.1171432,"lon":16.8718715,"zoom":10,"line":true,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"}},
-							{
-								"date":"",
-								"text":{
-									"headline":"Bologna",
-									"text":"<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pharetra faucibus pulvinar. Ut malesuada vestibulum purus sit amet laoreet.</span><br><br><strong>contributor</strong>: @eccoilmoro<br><strong>Storia</strong>: <a href='http://opendatabassaromagna.blogspot.it/2014/02/il-variegato-mondo-degli-opendatari.html'>http://opendatabassaromagna.blogspot.it/2014/02/il-variegato-mondo-degli-opendatari.html</a><br><strong>URL</strong>: <a href='http://wiki.opendataday.org/Bologna2014'>http://wiki.opendataday.org/Bologna2014</a><br>"
-									},
-									"media":{"url":"http://upload.wikimedia.org/wikipedia/commons/b/bc/Bologna-SanPetronioPiazzaMaggiore1.jpg",
-									"credit":"Wikimedia Commons","caption":""},
-									"location":{"lat":44.494887,"lon":11.3426163,"zoom":10,"line":true,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"}},
-							{
-								"date":"",
-								"text":{
-									"headline":"Cagliari",
-									"text":"<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pharetra faucibus pulvinar. Ut malesuada vestibulum purus sit amet laoreet.</span><br><br><strong>contributor</strong>: @manuelavacca<br><strong>Storia</strong>: <a href='http://apritisardegna.wordpress.com/2014/03/03/cagliari-open-data-day-2014-seconda-edizione/'>http://apritisardegna.wordpress.com/2014/03/03/cagliari-open-data-day-2014-seconda-edizione/</a><br><strong>URL</strong>: <a href='http://wiki.opendataday.org/Cagliari2014'>http://wiki.opendataday.org/Cagliari2014</a><br>"
-									},
-									"media":{"url":"http://upload.wikimedia.org/wikipedia/commons/9/94/Braun_hogenberg_Cagliari_1572.jpg",
-									"credit":"Wikimedia Commons","caption":""},
-									"location":{"lat":39.2238411,"lon":9.1216613,"zoom":10,"line":true,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"}}		
-									]
-								}
-							}
+							"location":{"lat":41.1171432,"lon":16.8718715,"zoom":10,"line":true,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"}
+							},
+					{
+						"date":"",
+						"text":{
+							"headline":"Bologna",
+							"text":"<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pharetra faucibus pulvinar. Ut malesuada vestibulum purus sit amet laoreet.</span><br><br><strong>contributor</strong>: @eccoilmoro<br><strong>Storia</strong>: <a href='http://opendatabassaromagna.blogspot.it/2014/02/il-variegato-mondo-degli-opendatari.html'>http://opendatabassaromagna.blogspot.it/2014/02/il-variegato-mondo-degli-opendatari.html</a><br><strong>URL</strong>: <a href='http://wiki.opendataday.org/Bologna2014'>http://wiki.opendataday.org/Bologna2014</a><br>"
+							},
+							"media":{"url":"http://upload.wikimedia.org/wikipedia/commons/b/bc/Bologna-SanPetronioPiazzaMaggiore1.jpg",
+							"credit":"Wikimedia Commons","caption":""},
+							"location":{"lat":44.494887,"lon":11.3426163,"zoom":10,"line":true,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"}
+							},
+					{
+						"date":"",
+						"text":{
+							"headline":"Cagliari",
+							"text":"<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pharetra faucibus pulvinar. Ut malesuada vestibulum purus sit amet laoreet.</span><br><br><strong>contributor</strong>: @manuelavacca<br><strong>Storia</strong>: <a href='http://apritisardegna.wordpress.com/2014/03/03/cagliari-open-data-day-2014-seconda-edizione/'>http://apritisardegna.wordpress.com/2014/03/03/cagliari-open-data-day-2014-seconda-edizione/</a><br><strong>URL</strong>: <a href='http://wiki.opendataday.org/Cagliari2014'>http://wiki.opendataday.org/Cagliari2014</a><br>"
+							},
+							"media":{"url":"http://upload.wikimedia.org/wikipedia/commons/9/94/Braun_hogenberg_Cagliari_1572.jpg",
+							"credit":"Wikimedia Commons","caption":""},
+							"location":{"lat":39.2238411,"lon":9.1216613,"zoom":10,"line":true,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"}
+						},
+					{
+						"date":"",
+						"text":{
+							"headline":"Cosenza",
+							"text":"<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pharetra faucibus pulvinar. Ut malesuada vestibulum purus sit amet laoreet.</span><br><br><strong>contributor</strong>: @jenkin27<br><strong>Storia</strong>: <a href='http://www.dataninja.it/gemellaggio-bologna-cosenza-nel-nome-degli-open-data/'>http://www.dataninja.it/gemellaggio-bologna-cosenza-nel-nome-degli-open-data/</a><br><strong>URL</strong>: <a href='http://wiki.opendataday.org/Cosenza2014'>http://wiki.opendataday.org/Cosenza2014</a><br>"
+							},
+							"media":{"url":"http://upload.wikimedia.org/wikipedia/commons/2/25/PANORAMA_COSENZA_NUOVA.jpg",
+							"credit":"Wikimedia Commons","caption":""},
+							"location":{"lat":39.2982629,"lon":16.2537357,"zoom":10,"line":true,"icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"}
+						}
+			]
+		}
+	}
